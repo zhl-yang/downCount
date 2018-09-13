@@ -1,0 +1,49 @@
+/**index.wxss**/
+
+.container {
+  height: 90%;
+  overflow: hidden;
+}
+
+.dd {
+  color: #ff0909;
+  font-family: '粗体';
+  font-size: 88rpx;
+}
+
+.mm {
+  font-size: 38rpx;
+  text-align: center;
+}
+
+.cc {
+  color: #02d7ff;
+  font-size: 58rpx;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.user-motto {
+  font-family: '黑体';
+  font-size: 58rpx;
+  text-align: center;
+}
+
+.today {
+  font-size: 46rpx;
+  text-align: center;
+}
+
+.ded {
+  overflow: auto;
+  _height: 1%;
+  margin-top:-30px;
+
+}
+.date{
+   font-size: 28rpx;
+   margin-left: 10%;
+   margin-right: 10%;
+   margin-top: 7%;
+}

@@ -1,0 +1,16 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="ded">
+    <view class='date'>
+      <view> 考试时间：2018年12月22日至23日</view>
+      <view>网上预报名：2018年9月24日至9月27日</view>
+      <view style='text-indent: 6em;'>每天9：00-22：00</view>
+      <view>网上报名：2018年10月10日至10月31日</view>
+      <view style='text-indent: 5em;'>每天9：00-22：00</view>
+      <view>打印准考证：2018年12月14日至12月24日</view>
+      <view>成绩查询：2019年2月</view>
+      <view>现场确认：\n由各省级教育招生考试机构根据本地区报考情况自行公布</view>
+    </view>
+    <ad unit-id="adunit-ec7fad3efffe4ad4"> </ad>
+  </view>
+</view>

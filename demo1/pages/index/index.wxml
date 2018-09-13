@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="ded">
+    <!--倒计时  -->
+    <view class='today'>今天是{{myDate}}</view>
+    <text class="user-motto">
+    距离考试还有：
+    <text class="dd">{{d}}</text>天<text class="dd">{{h}}</text>时<text class="dd">{{m}}</text>分<text class="dd">{{s}}</text>秒</text>
+    <text class='cc'>\n大吉大利，考研顺利！</text>
+  </view>
+</view>
+<ad unit-id="adunit-ec7fad3efffe4ad4"> </ad>

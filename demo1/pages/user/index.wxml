@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <text>本小程序开发属于个人爱好</text>
+  <text>\n阁下如有好的建议或者意见</text>
+  <text>\n请进入小程序详情页面进行意见反馈\n</text>
+  <text>\n或联系wx：\n</text>
+  <image style='margin: center' src='../../img/wx.png'></image>
+</view>
